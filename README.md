@@ -1,1 +1,1 @@
-Um projeto simples que analisa número, faz média, soma dos números selecionados 
+Um projeto simples que analisa número, faz média, e soma dos números selecionados. 
